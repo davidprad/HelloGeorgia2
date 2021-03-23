@@ -1,5 +1,5 @@
 <?php
-namespace Pixelpro\Helloworld\Controller\Index;
+namespace davidprad\HelloGeorgia2\Controller\Index;
 class Test extends \Magento\Framework\App\Action\Action
 {
 	protected $_pageFactory;
@@ -12,7 +12,7 @@ class Test extends \Magento\Framework\App\Action\Action
 	}
 	public function execute()
 	{
-		echo "Hello Georgia!";
+		echo "Hello Georgia2!";
 		exit;
 	}
 }
