@@ -1,5 +1,5 @@
 <?php
-namespace davidprad\HelloGeorgia2\Controller\Index;
+namespace davidprad\hellogeorgia2\Controller\Index;
 class Test extends \Magento\Framework\App\Action\Action
 {
 	protected $_pageFactory;
